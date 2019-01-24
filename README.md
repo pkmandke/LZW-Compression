@@ -9,7 +9,6 @@ This repository studies the variability of the compression ratio of utf-8 text f
 
 The [lzw](https://github.com/pytholic97/LZW-Text-File-Compression) package is used to achieve the compression and decompression of the text files.
 
-The work is still in beta as of 12 January'19.
 
 # Author
 
