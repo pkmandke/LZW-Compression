@@ -1,6 +1,6 @@
 # Files
 
-This files used for compression have been stored on the cloud and are accessible through the URLs mentioned below. The files are not pushed as a part of the commit in order to reduce size of repository.
+This files used for compression have been stored on the cloud. The files are not pushed as a part of the commit in order to reduce size of repository.
 The pdf's used are
 
 * Poisson
@@ -30,4 +30,4 @@ Each file for a given pdf varies only in the file size, with all other statistic
 
 # Results
 
-The results object contains the dict with compression/decompression results.
+The results are plotted in [LZW_results.ipynb](https://github.com/pkmandke/LZW-Compression/blob/master/LZW_results.ipynb).
