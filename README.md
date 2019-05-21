@@ -16,4 +16,5 @@ The [lzw](https://github.com/pytholic97/LZW-Text-File-Compression) package is us
 
 # To Do
 
-* Target the various atypical databases for data compression as enlisted [here](http://corpus.canterbury.ac.nz/descriptions/).
+* [ ] Plot compression time along with ratios using sns.
+* [ ] Target the various atypical databases for data compression as enlisted [here](http://corpus.canterbury.ac.nz/descriptions/).
